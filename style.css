@@ -1,5 +1,5 @@
 h1 {
-  color: #434d56;
+  color: #fdfeff;
   text-align: center;
   padding: 40px;
 }
@@ -11,11 +11,38 @@ h2 {
 }
 
 h5 {
-  color: #3a89ce;
+  color: #556e85;
   text-align: center;
   margin: 20px;
   padding: 10px;
   font-size: 16px;
+}
+
+p {
+  color: #434d56;
+  text-align: center;
+  padding: 10px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  font-size: 12px;
+}
+
+a {
+  color: #434d56;
+  text-decoration: none;
+}
+
+button {
+  color: white;
+  text-decoration: none;
+  border-radius: 10px;
+  background-color: #e7debd;
+  border-color: white;
+}
+
+footer {
+  text-align: center;
 }
 
 .container {
